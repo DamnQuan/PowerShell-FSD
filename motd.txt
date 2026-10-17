@@ -1,0 +1,9 @@
+Welcome to PowerShell-FSD
+A Flight Server Daemon implemented in pure PowerShell.
+
+This server implements the classic FSD protocol and works with
+Squawkbox, Pro Controller, vPilot, xPilot, swift and other
+compatible flight simulator multiplayer clients.
+
+Enjoy
+The PowerShell-FSD team

@@ -6,4 +6,4 @@ Squawkbox, Pro Controller, vPilot, xPilot, swift and other
 compatible flight simulator multiplayer clients.
 
 Enjoy
-The PowerShell-FSD team
+QuanQUan

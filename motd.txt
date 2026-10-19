@@ -1,4 +1,4 @@
-Welcome to PowerShell-FSD
+Welcome to use PowerShell-FSD!
 A Flight Server Daemon implemented in pure PowerShell.
 
 This server implements the classic FSD protocol and works with
